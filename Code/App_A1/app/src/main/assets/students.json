@@ -1,0 +1,30 @@
+[
+  {
+    "rollNo" : "MT2301",
+    "eligible" : true
+  },
+  {
+    "rollNo" : "MT2302",
+    "eligible" : false
+  },
+  {
+    "rollNo" : "MT2303",
+    "eligible" : true
+  },
+  {
+    "rollNo" : "MT2304",
+    "eligible" : true
+  },
+  {
+    "rollNo" : "MT2305",
+    "eligible" : true
+  },
+  {
+    "rollNo" : "MT2306",
+    "eligible" : false
+  },
+  {
+    "rollNo" : "MT2307",
+    "eligible" : false
+  }
+]
